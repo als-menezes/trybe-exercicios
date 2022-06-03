@@ -16,3 +16,5 @@ O que eu vou aprender na Trybe:
 
 
 
+- Habilidade 1
+- Habilidade 2
