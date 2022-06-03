@@ -17,3 +17,6 @@ O que eu vou aprender na Trybe:
 
 
 - Backend
+=======
+- Habilidade 1
+- Habilidade 2
