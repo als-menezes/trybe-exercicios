@@ -1,7 +1,6 @@
-const base = 5;
-const height = 8;
-const area = base * height;
+let situacao;
 
-const perimeter = area;
-
-console.log(perimeter);
+switch (situacao) {
+    case :
+        console.log()
+}
