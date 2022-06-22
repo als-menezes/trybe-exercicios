@@ -1,0 +1,58 @@
+.numeroPar {
+    color: green;
+}
+
+.numeroImpar {
+    text-transform: uppercase;
+}
+
+.italico {
+    font-size: 40px;
+    border: 1px solid black;
+}
+
+.corAzul {
+    color: blue;
+}
+
+.fundoRosa {
+    background-color: pink;
+}
+
+.aliados .laranja a:hover {
+    color: orange;
+    font-weight: bold;
+}
+
+.aliados .verde a:hover {
+    color: green;
+    font-weight: bold;
+}
+
+.preta {
+    color: black;
+    font-weight: bold;
+}
+
+.amarela {
+    color: yellow;
+    font-weight: bold;
+}
+
+.verdeTrybe {
+    color: rgb(61, 167, 61);
+    font-weight: bold;
+}
+
+h1, h3 {
+    color: red;
+}
+
+li {
+    font-size: 20px;
+}
+
+li em {
+    font-weight: bold;
+}
+
